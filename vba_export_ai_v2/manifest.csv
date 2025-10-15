@@ -1,0 +1,9 @@
+ComponentName,Type,ExportPath
+ThisWorkbook,100,.\vba_export_ai_v2\ThisWorkbook.cls
+Sheet1,100,.\vba_export_ai_v2\Sheet1.cls
+Sheet2,100,.\vba_export_ai_v2\Sheet2.cls
+Sheet3,100,.\vba_export_ai_v2\Sheet3.cls
+Sheet4,100,.\vba_export_ai_v2\Sheet4.cls
+Sheet5,100,.\vba_export_ai_v2\Sheet5.cls
+Sheet6,100,.\vba_export_ai_v2\Sheet6.cls
+Sheet7,100,.\vba_export_ai_v2\Sheet7.cls

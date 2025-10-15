@@ -1,0 +1,42 @@
+[
+  {
+    "name": "ThisWorkbook",
+    "type": 100,
+    "path": ".\\vba_export_ai_v2\\ThisWorkbook.cls"
+  },
+  {
+    "name": "Sheet1",
+    "type": 100,
+    "path": ".\\vba_export_ai_v2\\Sheet1.cls"
+  },
+  {
+    "name": "Sheet2",
+    "type": 100,
+    "path": ".\\vba_export_ai_v2\\Sheet2.cls"
+  },
+  {
+    "name": "Sheet3",
+    "type": 100,
+    "path": ".\\vba_export_ai_v2\\Sheet3.cls"
+  },
+  {
+    "name": "Sheet4",
+    "type": 100,
+    "path": ".\\vba_export_ai_v2\\Sheet4.cls"
+  },
+  {
+    "name": "Sheet5",
+    "type": 100,
+    "path": ".\\vba_export_ai_v2\\Sheet5.cls"
+  },
+  {
+    "name": "Sheet6",
+    "type": 100,
+    "path": ".\\vba_export_ai_v2\\Sheet6.cls"
+  },
+  {
+    "name": "Sheet7",
+    "type": 100,
+    "path": ".\\vba_export_ai_v2\\Sheet7.cls"
+  }
+]
